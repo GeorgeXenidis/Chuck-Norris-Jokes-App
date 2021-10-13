@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>me.springboot</groupId>
 	<artifactId>jokesapp</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.2</version>
 	<name>jokesapp</name>
 	<description>SpringBoot Application generating random joke quotes.</description>
 	<properties>
