@@ -1,4 +1,4 @@
-package Services;
+package me.springboot.jokesapp.Services;
 
 import org.springframework.stereotype.Service;
 
