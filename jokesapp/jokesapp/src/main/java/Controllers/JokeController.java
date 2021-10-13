@@ -16,7 +16,7 @@ public class JokeController {
     {
         quotesModel.addAttribute("quote", printQuoteInjection.generateQuote());
 
-        return "";
+        return "index";
     }
 
 }
